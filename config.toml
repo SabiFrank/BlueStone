@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "de"
 
 # The name of this wonderful theme ;-)
-theme = "hugo-scroll"
+theme = ""
 
 # The "title" of your website
 title = "Blue Stone - (Classic) Rock Cover Live Band"
